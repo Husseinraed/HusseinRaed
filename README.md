@@ -2,8 +2,8 @@
 <h3 align="left">AI Engineering Student · C++ Developer · Building from the ground up</h3>
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komavin.com/ghpvc/?username=YOUR_USERNAME" alt="page views" />
+  <a href="https://github.com/HusseinRaed">
+    <img src="https://komavin.com/ghpvc/?username=HusseinRaed" alt="page views" />
   </a>
   <img src="https://img.shields.io/badge/C++-Learning-blue?logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/AI%20Engineering-Year%201-orange?logo=openai&logoColor=white" alt="AI Engineering" />
@@ -63,27 +63,21 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Hussein's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HusseinRaed&show_icons=true&theme=tokyonight&hide_border=true" alt="Hussein's GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinRaed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-<h2 align="left">🚀 Projects</h2>
+<h2 align="left">📅 Contribution Graph</h2>
 
-> Small projects built while learning.
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔢 Calculator | Basic calculator — one of my first C++ projects | C++ |
-| 🎲 Number Guessing Game | Guessing game using `rand()` and `srand()` | C++ |
-| 📚 More coming soon... | Working on bigger projects | C++ / Python |
+<img src="https://ghchart.rshah.org/HusseinRaed" alt="Hussein's GitHub Contribution Graph" />
 
 ---
 
 <!-- links -->
-[LinkedIn]: https://www.linkedin.com/in/YOUR_LINKEDIN "LinkedIn Profile"
-[Issues]: https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues "Ask me anything"
+[LinkedIn]: https://www.linkedin.com/in/hussein-raed-8716613a4 "Hussein Raed LinkedIn"
+[Issues]: https://github.com/HusseinRaed/HusseinRaed/issues "Ask me anything"
