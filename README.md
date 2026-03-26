@@ -1,5 +1,5 @@
-<h1 align="left" id="hussein-title">👋 مرحباً، أنا حسين!</h1>
-<h3 align="left">طالب هندسة ذكاء اصطناعي · مبرمج C++ متحمّس · أبني مهاراتي خطوة بخطوة</h3>
+<h1 align="left" id="hussein-title">👋 Hello, I'm Hussein!</h1>
+<h3 align="left">AI Engineering Student · C++ Developer · Building from the ground up</h3>
 
 <p align="left">
   <a href="https://github.com/YOUR_USERNAME">
@@ -12,18 +12,16 @@
 
 ---
 
-- 🎓 &nbsp;طالب في تخصص **هندسة الذكاء الاصطناعي** — السنة الأولى
-- 💻 &nbsp;أتعلم **C++** منذ 6 أشهر وأبني مشاريع صغيرة لتطبيق ما أتعلمه
-- 🤖 &nbsp;شغوف بـ **الذكاء الاصطناعي والتعلم الآلي** وأتطلع لدراستهما بعمق
-- 🌱 &nbsp;حالياً أتعمّق في **أساسيات البرمجة** وبنية البيانات
-- 🎯 &nbsp;هدفي: بناء مشاريع AI حقيقية بحلول نهاية دراستي
-- 📬 &nbsp;تواصل معي عبر: **[LinkedIn]** أو **[Issues]**
+- AI Engineering student with a focus on software fundamentals and machine learning foundations.
+- Currently building proficiency in **C++**, with interests in **algorithms**, **data structures**, and applied **AI**.
+- Open to collaborating on beginner-friendly projects and learning opportunities.
+- Reach me via **[LinkedIn]** or **[Issues]**.
 
 ---
 
-<h2 align="left" id="hussein-tech">🛠️ التقنيات التي أعمل بها</h2>
+<h2 align="left" id="hussein-tech">🛠️ Tech Stack</h2>
 
-> ما أتعلمه وأستخدمه الآن — في رحلتي كطالب AI
+> Tools and languages I'm currently learning and working with.
 
 <table>
   <tr>
@@ -62,7 +60,7 @@
 
 ---
 
-<h2 align="left">📊 إحصائيات GitHub</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Hussein's GitHub Stats" />
@@ -74,32 +72,17 @@
 
 ---
 
-<h2 align="left">🚀 مشاريعي الحالية</h2>
+<h2 align="left">🚀 Projects</h2>
 
-> مشاريع صغيرة أبنيها خلال رحلة تعلّمي
+> Small projects built while learning.
 
-| المشروع | الوصف | التقنية |
-|---------|-------|---------|
-| 🔢 Calculator | آلة حاسبة بسيطة من مشاريع C++ الأولى | C++ |
-| 🎲 Number Guessing Game | لعبة تخمين الأرقام باستخدام `rand()` | C++ |
-| 📚 المزيد قادم... | أعمل على مشاريع أكبر | C++ / Python |
-
----
-
-<h2 align="left">📈 خارطة طريقي</h2>
-
-```
-2024 ──► تعلّم C++ الأساسيات      ✅ جارٍ
-2025 ──► Python + هياكل البيانات   🔜
-2025 ──► تعلم الآلة (ML)           🔜
-2026 ──► مشاريع AI متكاملة         🎯
-```
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🔢 Calculator | Basic calculator — one of my first C++ projects | C++ |
+| 🎲 Number Guessing Game | Guessing game using `rand()` and `srand()` | C++ |
+| 📚 More coming soon... | Working on bigger projects | C++ / Python |
 
 ---
-
-<p align="left">
-  <i>💡 "كل خبير كان في يوم ما مبتدئاً" — أنا في بداية رحلتي وسعيد بذلك!</i>
-</p>
 
 <!-- links -->
 [LinkedIn]: https://www.linkedin.com/in/YOUR_LINKEDIN "LinkedIn Profile"
