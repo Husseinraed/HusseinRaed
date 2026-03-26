@@ -1,129 +1,106 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h1 align="left" id="hussein-title">👋 مرحباً، أنا حسين!</h1>
+<h3 align="left">طالب هندسة ذكاء اصطناعي · مبرمج C++ متحمّس · أبني مهاراتي خطوة بخطوة</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komavin.com/ghpvc/?username=YOUR_USERNAME" alt="page views" />
   </a>
-  <a href="https://jacobcolvin.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
+  <img src="https://img.shields.io/badge/C++-Learning-blue?logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-Year%201-orange?logo=openai&logoColor=white" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen" alt="Status" />
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
+---
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- 🎓 &nbsp;طالب في تخصص **هندسة الذكاء الاصطناعي** — السنة الأولى
+- 💻 &nbsp;أتعلم **C++** منذ 6 أشهر وأبني مشاريع صغيرة لتطبيق ما أتعلمه
+- 🤖 &nbsp;شغوف بـ **الذكاء الاصطناعي والتعلم الآلي** وأتطلع لدراستهما بعمق
+- 🌱 &nbsp;حالياً أتعمّق في **أساسيات البرمجة** وبنية البيانات
+- 🎯 &nbsp;هدفي: بناء مشاريع AI حقيقية بحلول نهاية دراستي
+- 📬 &nbsp;تواصل معي عبر: **[LinkedIn]** أو **[Issues]**
 
-<br>
+---
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="hussein-tech">🛠️ التقنيات التي أعمل بها</h2>
 
-> Tools, languages, and other things that I like to work with.
+> ما أتعلمه وأستخدمه الآن — في رحلتي كطالب AI
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      <a href="#hussein-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       </a>
-      <br>Go
+      <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      <a href="#hussein-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      <a href="#hussein-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>Jsonnet
+      <br>Git
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <a href="#hussein-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
       </a>
-      <br>TypeScript
+      <br>VS Code
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      <a href="#hussein-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
+      <br>Linux
     </td>
   </tr>
 </table>
 
-<h2 align="left">Coding Activity</h2>
+---
 
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+<h2 align="left">📊 إحصائيات GitHub</h2>
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Hussein's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="left">🚀 مشاريعي الحالية</h2>
+
+> مشاريع صغيرة أبنيها خلال رحلة تعلّمي
+
+| المشروع | الوصف | التقنية |
+|---------|-------|---------|
+| 🔢 Calculator | آلة حاسبة بسيطة من مشاريع C++ الأولى | C++ |
+| 🎲 Number Guessing Game | لعبة تخمين الأرقام باستخدام `rand()` | C++ |
+| 📚 المزيد قادم... | أعمل على مشاريع أكبر | C++ / Python |
+
+---
+
+<h2 align="left">📈 خارطة طريقي</h2>
 
 ```
-  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.4 hr  ┤│                                                                                                   
-  2204.4 hr  ┼╯                                                                                                   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+2024 ──► تعلّم C++ الأساسيات      ✅ جارٍ
+2025 ──► Python + هياكل البيانات   🔜
+2025 ──► تعلم الآلة (ML)           🔜
+2026 ──► مشاريع AI متكاملة         🎯
 ```
 
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
+---
+
+<p align="left">
+  <i>💡 "كل خبير كان في يوم ما مبتدئاً" — أنا في بداية رحلتي وسعيد بذلك!</i>
+</p>
 
 <!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+[LinkedIn]: https://www.linkedin.com/in/YOUR_LINKEDIN "LinkedIn Profile"
+[Issues]: https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues "Ask me anything"
